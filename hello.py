@@ -1,0 +1,1 @@
+print("Hello! My first project is connected to GitHub.")
